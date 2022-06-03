@@ -7,13 +7,23 @@ const About = () => {
             <h1>Bio</h1>
             {/* UPDATE BIO */}
             <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+            Hey  what's going on? Welcome to my site! A bit about me, I'm Matt McKay, a full-stack software engineer and CPA professional with 5+ years of Big 4 experience in the finance and technology sectors. Graduate of Florida State Univeristy (BS in Accounting), Unveristy of Virginia (Masters of Accounting), and now Flatirons School (Software Engineering). 
             </p>
             <br/>
             {/* UPDATE BIO */}
             <p>
-            Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?
+            Proficient with languages such as JavaScript, React, Ruby, Rails, SQL, HTML, and CSS - including Tailwind. Excited to continue learning more and add another language or two that list. 
             </p>
+            <br/>
+            <p>
+            Lived a little all across the states: California, Florida, Virginia, and New York. Played a couple sports along the way, mainly: basketball, soccer, and golf. Listener of all types of music: hip hop, rock, latin, house, indie, etc. Big fan of comedy and everything memes too - send over your favorite 
+            </p>
+            <br/>
+            <p>
+            Always enjoy making a new connection so don't hesitate to reach out! Let's grab a coffee or collab on a new, exciting project.  
+            </p>
+            <br/>
+            <a href="https://www.youtube.com/watch?v=8UIEb3phWPM" target="_blank"> Not my work, but always a good laugh </a>   
         </div>
     )
 }

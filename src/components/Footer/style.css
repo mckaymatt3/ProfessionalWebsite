@@ -10,3 +10,7 @@ footer {
   footer img:not(:last-child) {
     margin-right: 10px;
   }
+
+  a {
+    margin-right: 1px;
+  }
