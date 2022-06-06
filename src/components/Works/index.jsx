@@ -1,16 +1,16 @@
 import React from 'react';
 import "./style.css";
 
+import ProjectCarousel from '../ProjectCarousel';
+
 const Works = () => {
   return (
     <div className="works">
       <h1>Projects</h1>
-      <div></div>
-      <div></div>
-      <div></div>
-      <div></div>
+      <ProjectCarousel />
       <p>See more in the Github below</p>
       <br />
+      <br />  
       <h1>Experiences</h1>
       <p>Company: Ernst & Young</p>
       <p>Role: Assurance Manager</p>
@@ -19,6 +19,7 @@ const Works = () => {
       <p>Company: Marine Education Initiative</p>
       <p>Role: Treasurer, Board of Directors</p>
       <p>Date: 2007 - Current</p>
+      <br />
     </div>
   );
 };
