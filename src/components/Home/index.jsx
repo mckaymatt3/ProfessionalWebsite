@@ -17,6 +17,7 @@ const Home = () => {
       </div>
       <div className="person">
         <img
+        // possible updates to logo
           src={`${process.env.PUBLIC_URL}/matt-logo.png`}
           alt="picture"
         />
