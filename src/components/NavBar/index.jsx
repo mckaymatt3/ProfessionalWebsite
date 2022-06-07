@@ -7,6 +7,8 @@ const NavBar = () => {
     const [screenWidth, setScreenWidth] = useState(0);
     const location = useLocation();
 
+    const img1 = `${process.env.PUBLIC_URL}/MattMcKayLogoWhite.png`;
+
     const trackScreenWidth = () => {
         const width = window.innerWidth;
         setScreenWidth(width);
@@ -34,7 +36,7 @@ const NavBar = () => {
             <Link to="/">
                 <img
                 // UPDATE BRAND LOGO
-                src="https://github.com/DwinaTech/public-images/blob/main/DwinaTech-brand.png?raw=true"
+                src={img1}
                 alt="brand"
                 />
             </Link>

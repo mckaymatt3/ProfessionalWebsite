@@ -25,7 +25,7 @@ const Footer = () => {
             />
         </a>
 
-        <a href="mailto:mckaymatt@outlook.com" target="_blank">
+        <a href="https://docs.google.com/document/d/1lmS4kJ4jIHPFR7CXdqnm-OVahbW0kJcwBhCzvpV_RuQ/edit?usp=sharing" target="_blank">
             <img
                 src="https://cdn-icons-png.flaticon.com/512/1250/1250696.png"
                 alt="Resume-icon"
