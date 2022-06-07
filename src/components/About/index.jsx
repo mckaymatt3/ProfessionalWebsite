@@ -5,12 +5,10 @@ const About = () => {
     return (
         <div className="about">
             <h1>Bio</h1>
-            {/* UPDATE BIO */}
             <p>
             Hey  what's going on? Welcome to my site! A bit about me, I'm Matt McKay, a full-stack software engineer and CPA professional with 5+ years of Big 4 experience in the finance and technology sectors. Graduate of Florida State Univeristy (BS in Accounting), Unveristy of Virginia (Masters of Accounting), and now Flatirons School (Software Engineering). 
             </p>
             <br/>
-            {/* UPDATE BIO */}
             <p>
             Proficient with languages such as JavaScript, React, Ruby, Rails, SQL, HTML, and CSS - including Tailwind. Excited to continue learning more and add another language or two that list. 
             </p>

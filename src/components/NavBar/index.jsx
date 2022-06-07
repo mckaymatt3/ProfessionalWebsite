@@ -35,7 +35,6 @@ const NavBar = () => {
             <div className="logo">
             <Link to="/">
                 <img
-                // UPDATE BRAND LOGO
                 src={img1}
                 alt="brand"
                 />
@@ -43,8 +42,7 @@ const NavBar = () => {
             </div>
             <div className="list-wrapper">
             <img
-                // UPDATE SOURCE
-                src="https://github.com/DwinaTech/public-images/blob/main/menu-bars.png?raw=true"
+                src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHqAYabGKEs9AKbgT1dQr6DNhDQkfCb-RhXkK0xSSgYbEbUnqOW6JDNYiD8dsKV8mluEc&usqp=CAU"
                 alt="Menu bars"
                 style={{ opacity: !open ? 1 : 0 }}
                 onClick={() => {
@@ -52,8 +50,7 @@ const NavBar = () => {
                 }}
             />
             <img
-                // UPDATE SOURCE
-                src="https://github.com/DwinaTech/public-images/blob/main/cross-menu-icon.png?raw=true"
+                src="https://cdn-icons-png.flaticon.com/512/507/507222.png"
                 alt="Menu cross"
                 style={{ opacity: open ? 1 : 0 }}
                 onClick={() => {
