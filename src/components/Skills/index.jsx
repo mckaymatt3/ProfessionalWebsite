@@ -8,20 +8,21 @@ const Skills = () => {
       <div className="content">
         <div>
           <strong>Languages:</strong>
+          <li>JavaScript</li>
+          <li>Ruby</li>
           <li>CSS</li>
           <li>HTML</li>
-          <li>Node.js</li>
-          <li>JavaScript</li>
-          <li>Ruby & Rails</li>
+          {/* <li>Node.js</li> */}
         </div>
         <div>
           <strong>Libraries:</strong>
           <li>React.js</li>
-          <li>Redux</li>
-          <li>Context</li>
+          <li>Rails & Sinatra </li>
+          <li>Redux & Context</li>
+          {/* <li>Context</li> */}
           <li>Bootstrap</li>
           <li>Tailwind</li>
-          <li>Sinatra</li>
+          {/* <li>Sinatra</li> */}
         </div>
         <div>
           <strong>Tools:</strong>
@@ -29,7 +30,7 @@ const Skills = () => {
           <li>Github</li>
           <li>Heroku</li>
           <li>Netlify</li>
-          <li>Eslint</li>
+          <li>WebSockets</li>
         </div>
         <div>
           <strong>Soft Skills:</strong>
@@ -41,12 +42,13 @@ const Skills = () => {
           <li>Public Speaking</li>
         </div>
         <div>
-          <strong>Technical Skills:</strong>
+          <strong>Additional Technical Skills:</strong>
           <li>Financial Statements</li>
-          <li>Technical Accounting</li>
-          <li>FASB & ASC Knowledge</li>
+          <li>GAAP Technical Accounting</li>
+          <li>FASB & AICPA Knowledge</li>
           <li>Budgeting</li>
-          <li>Finance & Sales</li>
+          <li>Finance</li>
+          <li>Sales</li>
           <li>Microsoft Office</li>
         </div>
       </div>
