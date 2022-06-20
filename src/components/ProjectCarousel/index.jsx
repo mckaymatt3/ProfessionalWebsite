@@ -71,7 +71,7 @@ function ProjectCarousel() {
           <p className="legend">Aux</p>
           <a href="https://github.com/mckaymatt3/Phase5Project" target="_blank">Github</a>
           <br/>
-          <a href="">Demo Coming Soon...</a>
+          <a href="https://www.canva.com/design/DAFDsa964YQ/3rmuFFzrk2-Vwdi9gQEfHA/watch?utm_content=DAFDsa964YQ&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink">Demo</a>
       </div>
     </Carousel>
   )
