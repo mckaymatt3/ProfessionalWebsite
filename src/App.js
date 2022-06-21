@@ -6,6 +6,7 @@ import NavBar from "./components/NavBar";
 import Skills from "./components/Skills";
 import Works from "./components/Works";
 import Contact from "./components/Contact";
+// import Blog from "./components/Blog";
 import './App.css';
 
 function App() {
@@ -19,6 +20,7 @@ function App() {
       <Route exact path="/skills" component={Skills} />
       <Route exact path="/works" component={Works} />
       <Route exact path="/contact" component={Contact} />
+      {/* <Route exact path="/blog" component={Blog} /> */}
     </Switch>
     <Footer />
       </div>

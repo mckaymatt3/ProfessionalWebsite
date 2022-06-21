@@ -6,7 +6,7 @@ const About = () => {
         <div className="about">
             <h1>Bio</h1>
             <p>
-            Hey, what's going on? Welcome to my site! A bit about me, I'm Matt McKay, a full-stack software engineer and CPA professional with 5+ years of Big 4 public accounting experience in the finance and technology sectors. Graduate of Florida State Univeristy (BS in Accounting), Unveristy of Virginia (Masters of Accounting), and Flatirons School (Software Engineering). 
+            Hey, what's going on? Welcome to my site! A bit about me, I'm Matt McKay, a full-stack software engineer and CPA professional with 5+ years of Big 4 public accounting experience in the finance and technology sectors. Graduate of Florida State University (BS in Accounting), University of Virginia (Masters of Accounting), and Flatirons School (Software Engineering). 
             </p>
             <br/>
             <p>
@@ -14,7 +14,7 @@ const About = () => {
             </p>
             <br/>
             <p>
-            Lived a little all across the states: California, Florida, Virginia, and New York. Played a couple sports along the way, mainly: basketball, soccer, and golf. Listener of all types of music: hip hop, rock, latin, house, indie, etc. Big fan of comedy and everything memes too - feel free send over your favorites.   
+            Lived a little all across the states: California, Florida, Virginia, and New York. Played a couple sports along the way, mainly: basketball, soccer, and golf. Listener of all types of music: hip hop, rock, latin, house, indie, etc. Big fan of comedy and everything memes too - send over your favorites.   
             </p>
             <br/>
             <p>

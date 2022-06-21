@@ -8,7 +8,7 @@ const Works = () => {
     <div className="works">
       <h1>Projects</h1>
       <ProjectCarousel />
-      <p>See more in the Github link below</p>
+      <p>See more in the GitHub link below</p>
       <br />
       <br />  
       <h1>Experiences</h1>

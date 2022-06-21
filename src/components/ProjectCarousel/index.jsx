@@ -27,8 +27,8 @@ function ProjectCarousel() {
 
   const handleSize = screenWidth < 600 ? "95vw" : "55vw"
 
-  console.log("screen width:", screenWidth)
-  console.log("handle size", handleSize)
+  // console.log("screen width:", screenWidth)
+  // console.log("handle size", handleSize)
   
   return (
     <Carousel
@@ -48,28 +48,28 @@ function ProjectCarousel() {
       <div>
           <img src={img2} alt="St@s" />
           <p className="legend"> St@s </p>
-          <a href="https://github.com/mckaymatt3/ReactDashboard" target="_blank">Github</a>
+          <a href="https://github.com/mckaymatt3/ReactDashboard" target="_blank">GitHub</a>
           <br/>
           <a href="https://stats-react-dashboard.netlify.app/" target="_blank">Demo</a> 
       </div>
       <div>
           <img src={img3} alt="U Hungry?" />
           <p className="legend">U Hungry?</p>
-          <a href="https://github.com/mckaymatt3/Phase-2-project-Uhungry" target="_blank">Github</a>
+          <a href="https://github.com/mckaymatt3/Phase-2-project-Uhungry" target="_blank">GitHub</a>
           <br/>
           <a href="https://u-hungry.netlify.app/#/" target="_blank">Demo</a>
       </div>
       <div>
           <img src={img1} alt="Retro BnB" />
           <p className="legend">Retro BnB</p>
-          <a href="https://github.com/bc-kelly/phase-3-project-front-end" target="_blank">Github</a>
+          <a href="https://github.com/bc-kelly/phase-3-project-front-end" target="_blank">GitHub</a>
           <br/>
           <a href="https://hotelproject-react.netlify.app/" target="_blank">Demo</a>
       </div>
       <div>
           <img src={img4} alt="Aux" />  
           <p className="legend">Aux</p>
-          <a href="https://github.com/mckaymatt3/Phase5Project" target="_blank">Github</a>
+          <a href="https://github.com/mckaymatt3/Phase5Project" target="_blank">GitHub</a>
           <br/>
           <a href="https://www.canva.com/design/DAFDsa964YQ/3rmuFFzrk2-Vwdi9gQEfHA/watch?utm_content=DAFDsa964YQ&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink">Demo</a>
       </div>

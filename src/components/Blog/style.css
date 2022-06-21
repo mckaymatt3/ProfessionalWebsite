@@ -1,0 +1,7 @@
+.blog {
+    flex-grow: 1;
+  }
+  
+  .blog h1 {
+    margin-bottom: 20px;
+  }

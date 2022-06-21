@@ -27,7 +27,7 @@ const Skills = () => {
         <div>
           <strong>Tools:</strong>
           <li>Chrome Dev</li>
-          <li>Github</li>
+          <li>GitHub</li>
           <li>Heroku</li>
           <li>Netlify</li>
           <li>WebSockets</li>
